@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+       "down": "tm:blocks/oven_block_top",
+         "up": "tm:blocks/oven_block_top",
+      "north": "tm:blocks/oven_block_side",
+      "south": "tm:blocks/oven_block_side",
+       "west": "tm:blocks/oven_block_side",
+       "east": "tm:blocks/oven_block_front_off",
+   "particle": "blocks/lapis_block"
+  }
+}
