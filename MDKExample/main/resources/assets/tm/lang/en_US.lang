@@ -1,0 +1,16 @@
+item.dark_ingot.name=Dark Ingot
+item.melon_chunk.name=Melon Chunk
+item.fish_shiny.name=Shiny Fish
+item.apple_jeweled.name=Green Apple
+item.pickaxe_nether.name=Nether Pickaxe
+item.hoe_nether.name=Nether Hoe
+item.blaze_rod_sticky.name=Slime Blaze Rod
+
+
+itemGroup.modTab= Joop's Mod: Simple Things
+
+
+
+tile.oven_block.name=Oven Block
+tile.door_bell.name=Door Bell
+tile.pressure_carpet.name=Pressured Rug

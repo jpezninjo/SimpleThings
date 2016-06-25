@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "tm:pressure_carpet_up" },
+        "powered=true": { "model": "tm:pressure_carpet_down" }
+    }
+}
